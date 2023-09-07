@@ -5,6 +5,6 @@ In those links will be webpages that contain the appropriate recipe
 
 I will be demonstrating the following skills I have learnt so far:
 - html webpage setup and key info
-- html body utilization
+- html tags utilization
 - html links and images utilization
 - using git for version control
