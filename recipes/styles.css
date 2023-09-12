@@ -40,6 +40,9 @@ img{
     border-style: double;
     border-radius: 40px;
     border-width: 10px;
+    width: auto;
+    max-width: 75%;
+    height: auto;
 }
 
 .return{
