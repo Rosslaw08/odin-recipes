@@ -8,3 +8,4 @@ I will be demonstrating the following skills I have learnt so far:
 - html tags utilization
 - html links and images utilization
 - using git for version control
+- utilize CSS for styling
