@@ -11,12 +11,12 @@ h1{
 
 .list{
     background-color: #96bcc8;
-    text-align: center;
     border-radius: 20px;
-    margin: 0;
-    margin-top: 20px;
-    padding: 10px;
     list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    
 }
 
 li{
@@ -24,9 +24,14 @@ li{
     font-size: 20px;
     background-color: #b5dce9;
     border-radius: 20px;
-    display: inline-block;
-    padding: 10px;
-    margin: 10px;
+    margin: 15px;
+    flex: 1;
+}
+
+@media (min-width: 1025px) {
+    .list{
+        flex-direction: row;
+    }
 }
 
 
